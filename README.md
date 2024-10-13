@@ -14,3 +14,6 @@ PySpark for large-scale data processing,
 Power BI for data visualization
 ## Final Dashboard
 ![image](https://github.com/user-attachments/assets/6fbae673-c12c-4929-85c4-dceca538aac3)
+
+## Evaluation Performance of Machine Leaning Models
+![image](https://github.com/user-attachments/assets/6e77a389-b807-441c-882b-e4e973826a54)
